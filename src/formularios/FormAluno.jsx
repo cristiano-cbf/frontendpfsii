@@ -9,7 +9,7 @@ import { rg, cpf, cep, telefone } from "../utils/masks";
 import BarraBusca from "../templates/BarraBusca";
 
 export default function FormAluno({
-  escolas,
+  escolas, 
   onEdit,
   setExibeTabela,
   setOnEdit,
